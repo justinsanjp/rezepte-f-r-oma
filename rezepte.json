@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "title": "Beispiel Rezept",
+      "description": "beispiel",
+      "link": "https://example.com/beispiel"
+    },
+    {
+      "title": "Kuchen beispiel",
+      "description": "ein einfacher kuchen",
+      "link": "https://example.com/kuchen"
+    }
+  ]
+}
